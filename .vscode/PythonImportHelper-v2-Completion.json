@@ -1,0 +1,616 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Faker",
+        "importPath": "faker",
+        "description": "faker",
+        "isExtraImport": true,
+        "detail": "faker",
+        "documentation": {}
+    },
+    {
+        "label": "Faker",
+        "importPath": "faker",
+        "description": "faker",
+        "isExtraImport": true,
+        "detail": "faker",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "pymongo",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "bank_account_schema",
+        "importPath": "CRUD.generate_data",
+        "description": "CRUD.generate_data",
+        "isExtraImport": true,
+        "detail": "CRUD.generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "insert_account",
+        "importPath": "CRUD.crud",
+        "description": "CRUD.crud",
+        "isExtraImport": true,
+        "detail": "CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "delete_account",
+        "importPath": "CRUD.crud",
+        "description": "CRUD.crud",
+        "isExtraImport": true,
+        "detail": "CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_account",
+        "importPath": "CRUD.crud",
+        "description": "CRUD.crud",
+        "isExtraImport": true,
+        "detail": "CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_values",
+        "importPath": "CRUD.crud",
+        "description": "CRUD.crud",
+        "isExtraImport": true,
+        "detail": "CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "insert_values",
+        "importPath": "CRUD.crud",
+        "description": "CRUD.crud",
+        "isExtraImport": true,
+        "detail": "CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "delete_values",
+        "importPath": "CRUD.crud",
+        "description": "CRUD.crud",
+        "isExtraImport": true,
+        "detail": "CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "update_values",
+        "importPath": "CRUD.crud",
+        "description": "CRUD.crud",
+        "isExtraImport": true,
+        "detail": "CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "MetaData",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Account",
+        "importPath": "tables.create_tables",
+        "description": "tables.create_tables",
+        "isExtraImport": true,
+        "detail": "tables.create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "tables.create_tables",
+        "description": "tables.create_tables",
+        "isExtraImport": true,
+        "detail": "tables.create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "tables.create_tables",
+        "description": "tables.create_tables",
+        "isExtraImport": true,
+        "detail": "tables.create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "tables.create_tables",
+        "description": "tables.create_tables",
+        "isExtraImport": true,
+        "detail": "tables.create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "Account",
+        "importPath": "tables.create_tables",
+        "description": "tables.create_tables",
+        "isExtraImport": true,
+        "detail": "tables.create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "insert_account",
+        "kind": 2,
+        "importPath": "mongoDBApplication.CRUD.crud",
+        "description": "mongoDBApplication.CRUD.crud",
+        "peekOfCode": "def insert_account(collection,account_data):\n    result = collection.insert_one(account_data)\n    return result.inserted_id\ndef get_account(collection,account_number ):\n    account = collection.find_one({'account_holder' : account_number} ) \n    return account\ndef delete_account(collection,account_number ):\n    account = collection.delete_one({'account_holder' : account_number} ) \n    return account.deleted_count",
+        "detail": "mongoDBApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_account",
+        "kind": 2,
+        "importPath": "mongoDBApplication.CRUD.crud",
+        "description": "mongoDBApplication.CRUD.crud",
+        "peekOfCode": "def get_account(collection,account_number ):\n    account = collection.find_one({'account_holder' : account_number} ) \n    return account\ndef delete_account(collection,account_number ):\n    account = collection.delete_one({'account_holder' : account_number} ) \n    return account.deleted_count",
+        "detail": "mongoDBApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "delete_account",
+        "kind": 2,
+        "importPath": "mongoDBApplication.CRUD.crud",
+        "description": "mongoDBApplication.CRUD.crud",
+        "peekOfCode": "def delete_account(collection,account_number ):\n    account = collection.delete_one({'account_holder' : account_number} ) \n    return account.deleted_count",
+        "detail": "mongoDBApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "fake",
+        "kind": 5,
+        "importPath": "mongoDBApplication.CRUD.generate_data",
+        "description": "mongoDBApplication.CRUD.generate_data",
+        "peekOfCode": "fake = Faker()\nbank_account_schema = {\n    'account_holder': fake.name(),\n    'account_number': random.randint(1000, 10000),\n    'balance':random.randint(1, 10000),\n    'branch_code' : random.randint(1, 500),\n    'bank_name': fake.profile()['company']\n}\nprint(bank_account_schema)",
+        "detail": "mongoDBApplication.CRUD.generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "bank_account_schema",
+        "kind": 5,
+        "importPath": "mongoDBApplication.CRUD.generate_data",
+        "description": "mongoDBApplication.CRUD.generate_data",
+        "peekOfCode": "bank_account_schema = {\n    'account_holder': fake.name(),\n    'account_number': random.randint(1000, 10000),\n    'balance':random.randint(1, 10000),\n    'branch_code' : random.randint(1, 500),\n    'bank_name': fake.profile()['company']\n}\nprint(bank_account_schema)",
+        "detail": "mongoDBApplication.CRUD.generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "myclient",
+        "kind": 5,
+        "importPath": "mongoDBApplication.main",
+        "description": "mongoDBApplication.main",
+        "peekOfCode": "myclient = pymongo.MongoClient(\"mongodb+srv://<username>:<password>@dio-application.knjueno.mongodb.net/?retryWrites=true&w=majority\")\n#print(myclient)\ndb_client = myclient[\"dio-application\"]\n#print(db_client)\ndb =  db_client['bank_account']\n#print(db)\n#create collection \ninsert_account(db, bank_account_schema)\nget_account(db, 1802)\nid_account = input('ID_ACCOUNT TO DELETE ')",
+        "detail": "mongoDBApplication.main",
+        "documentation": {}
+    },
+    {
+        "label": "db_client",
+        "kind": 5,
+        "importPath": "mongoDBApplication.main",
+        "description": "mongoDBApplication.main",
+        "peekOfCode": "db_client = myclient[\"dio-application\"]\n#print(db_client)\ndb =  db_client['bank_account']\n#print(db)\n#create collection \ninsert_account(db, bank_account_schema)\nget_account(db, 1802)\nid_account = input('ID_ACCOUNT TO DELETE ')\ndelete_account(db, account_number=id_account)",
+        "detail": "mongoDBApplication.main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "mongoDBApplication.main",
+        "description": "mongoDBApplication.main",
+        "peekOfCode": "db =  db_client['bank_account']\n#print(db)\n#create collection \ninsert_account(db, bank_account_schema)\nget_account(db, 1802)\nid_account = input('ID_ACCOUNT TO DELETE ')\ndelete_account(db, account_number=id_account)",
+        "detail": "mongoDBApplication.main",
+        "documentation": {}
+    },
+    {
+        "label": "id_account",
+        "kind": 5,
+        "importPath": "mongoDBApplication.main",
+        "description": "mongoDBApplication.main",
+        "peekOfCode": "id_account = input('ID_ACCOUNT TO DELETE ')\ndelete_account(db, account_number=id_account)",
+        "detail": "mongoDBApplication.main",
+        "documentation": {}
+    },
+    {
+        "label": "insert_values",
+        "kind": 2,
+        "importPath": "sqliteApplication.CRUD.crud",
+        "description": "sqliteApplication.CRUD.crud",
+        "peekOfCode": "def insert_values(session):\n    session.add_all([Schema_Account, Schema_costumer])\n    session.commit()\ndef get_values(session):\n    # Use a função select() para construir uma consulta SQL\n    stmt = select(Customer, Account)\n    # Execute a consulta e itere sobre os resultados\n    for user in session.execute(stmt):\n        print(user)\n    account_stmt = select(Account)",
+        "detail": "sqliteApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_values",
+        "kind": 2,
+        "importPath": "sqliteApplication.CRUD.crud",
+        "description": "sqliteApplication.CRUD.crud",
+        "peekOfCode": "def get_values(session):\n    # Use a função select() para construir uma consulta SQL\n    stmt = select(Customer, Account)\n    # Execute a consulta e itere sobre os resultados\n    for user in session.execute(stmt):\n        print(user)\n    account_stmt = select(Account)\n    for account in session.execute(account_stmt):\n        print(account)\ndef delete_values(session):",
+        "detail": "sqliteApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "delete_values",
+        "kind": 2,
+        "importPath": "sqliteApplication.CRUD.crud",
+        "description": "sqliteApplication.CRUD.crud",
+        "peekOfCode": "def delete_values(session):\n    stmt = delete(Customer)\n    session.execute(stmt)\n    session.commit()\n    print('DB VALUES WHERE DELETED')\n    get_values(session)\ndef update_values(session, customer_id):\n    stmt = update(Customer).where(Customer.id == customer_id).values(name = fake.name())\n    session.execute(stmt)\n    session.commit()",
+        "detail": "sqliteApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "update_values",
+        "kind": 2,
+        "importPath": "sqliteApplication.CRUD.crud",
+        "description": "sqliteApplication.CRUD.crud",
+        "peekOfCode": "def update_values(session, customer_id):\n    stmt = update(Customer).where(Customer.id == customer_id).values(name = fake.name())\n    session.execute(stmt)\n    session.commit()",
+        "detail": "sqliteApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "fake",
+        "kind": 5,
+        "importPath": "sqliteApplication.CRUD.crud",
+        "description": "sqliteApplication.CRUD.crud",
+        "peekOfCode": "fake = Faker()\naccount_type = ['Cheking account', 'Saving Account', 'Money Market Account', 'CD', 'IRA', 'Brokerage Account']\ncpf = str(uuid4())\ncostumer_id =  random.randint(1000, 10000)\naccount_type = random.choices(account_type)\nSchema_costumer = Customer(\n    id = costumer_id,\n    name = fake.name(),\n    cpf =  cpf[:9],\n    address  = fake.address()[:19]",
+        "detail": "sqliteApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "account_type",
+        "kind": 5,
+        "importPath": "sqliteApplication.CRUD.crud",
+        "description": "sqliteApplication.CRUD.crud",
+        "peekOfCode": "account_type = ['Cheking account', 'Saving Account', 'Money Market Account', 'CD', 'IRA', 'Brokerage Account']\ncpf = str(uuid4())\ncostumer_id =  random.randint(1000, 10000)\naccount_type = random.choices(account_type)\nSchema_costumer = Customer(\n    id = costumer_id,\n    name = fake.name(),\n    cpf =  cpf[:9],\n    address  = fake.address()[:19]\n)",
+        "detail": "sqliteApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "cpf",
+        "kind": 5,
+        "importPath": "sqliteApplication.CRUD.crud",
+        "description": "sqliteApplication.CRUD.crud",
+        "peekOfCode": "cpf = str(uuid4())\ncostumer_id =  random.randint(1000, 10000)\naccount_type = random.choices(account_type)\nSchema_costumer = Customer(\n    id = costumer_id,\n    name = fake.name(),\n    cpf =  cpf[:9],\n    address  = fake.address()[:19]\n)\nSchema_Account = Account(",
+        "detail": "sqliteApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "costumer_id",
+        "kind": 5,
+        "importPath": "sqliteApplication.CRUD.crud",
+        "description": "sqliteApplication.CRUD.crud",
+        "peekOfCode": "costumer_id =  random.randint(1000, 10000)\naccount_type = random.choices(account_type)\nSchema_costumer = Customer(\n    id = costumer_id,\n    name = fake.name(),\n    cpf =  cpf[:9],\n    address  = fake.address()[:19]\n)\nSchema_Account = Account(\n    id_account = random.randint(1000, 10000),",
+        "detail": "sqliteApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "account_type",
+        "kind": 5,
+        "importPath": "sqliteApplication.CRUD.crud",
+        "description": "sqliteApplication.CRUD.crud",
+        "peekOfCode": "account_type = random.choices(account_type)\nSchema_costumer = Customer(\n    id = costumer_id,\n    name = fake.name(),\n    cpf =  cpf[:9],\n    address  = fake.address()[:19]\n)\nSchema_Account = Account(\n    id_account = random.randint(1000, 10000),\n    account_type = account_type[0],",
+        "detail": "sqliteApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "Schema_costumer",
+        "kind": 5,
+        "importPath": "sqliteApplication.CRUD.crud",
+        "description": "sqliteApplication.CRUD.crud",
+        "peekOfCode": "Schema_costumer = Customer(\n    id = costumer_id,\n    name = fake.name(),\n    cpf =  cpf[:9],\n    address  = fake.address()[:19]\n)\nSchema_Account = Account(\n    id_account = random.randint(1000, 10000),\n    account_type = account_type[0],\n    bank_branch = str(uuid4()),",
+        "detail": "sqliteApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "Schema_Account",
+        "kind": 5,
+        "importPath": "sqliteApplication.CRUD.crud",
+        "description": "sqliteApplication.CRUD.crud",
+        "peekOfCode": "Schema_Account = Account(\n    id_account = random.randint(1000, 10000),\n    account_type = account_type[0],\n    bank_branch = str(uuid4()),\n    num = random.randint(1000, 10000),\n    customer_id = costumer_id\n)\ndef insert_values(session):\n    session.add_all([Schema_Account, Schema_costumer])\n    session.commit()",
+        "detail": "sqliteApplication.CRUD.crud",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "kind": 6,
+        "importPath": "sqliteApplication.tables.create_tables",
+        "description": "sqliteApplication.tables.create_tables",
+        "peekOfCode": "class Customer(Base):\n    __tablename__ = 'customers'\n    id = Column(Integer, primary_key=True)\n    name = Column(String)\n    cpf = Column(String(9))\n    address = Column(String(20))\n    accounts = relationship('Account', backref='customer')\n    def __repr__(self):\n        return f\"Customer(id={self.id}, name={self.name}, cpf={self.cpf}, address={self.address})\"\nclass Account(Base):",
+        "detail": "sqliteApplication.tables.create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "Account",
+        "kind": 6,
+        "importPath": "sqliteApplication.tables.create_tables",
+        "description": "sqliteApplication.tables.create_tables",
+        "peekOfCode": "class Account(Base):\n    __tablename__ = 'accounts'\n    id_account = Column(Integer, primary_key=True, autoincrement=True)\n    account_type = Column(String, nullable=False)\n    bank_branch = Column(String)\n    num = Column(Integer)\n    customer_id = Column(Integer, ForeignKey('customers.id'))",
+        "detail": "sqliteApplication.tables.create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "sqliteApplication.tables.create_tables",
+        "description": "sqliteApplication.tables.create_tables",
+        "peekOfCode": "Base = declarative_base()\nclass Customer(Base):\n    __tablename__ = 'customers'\n    id = Column(Integer, primary_key=True)\n    name = Column(String)\n    cpf = Column(String(9))\n    address = Column(String(20))\n    accounts = relationship('Account', backref='customer')\n    def __repr__(self):\n        return f\"Customer(id={self.id}, name={self.name}, cpf={self.cpf}, address={self.address})\"",
+        "detail": "sqliteApplication.tables.create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "sqliteApplication.main",
+        "description": "sqliteApplication.main",
+        "peekOfCode": "engine = create_engine(\"sqlite:///user.db\")\nwith engine.connect() as connection:\n     Base.metadata.create_all(engine)\n     with Session(engine) as session:\n         insert_values(session= session)\n         get_values(session)\n         input_id = input('Inserte the id ')\n         update_values(session, input_id)\n         delete_values(session)",
+        "detail": "sqliteApplication.main",
+        "documentation": {}
+    }
+]
